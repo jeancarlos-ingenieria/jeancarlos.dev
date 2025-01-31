@@ -1,0 +1,9 @@
+---
+title: Como se transporta la energía eléctrica 
+description: De una central a tu casa, como se transporta la energia eléctrica
+date: 01/31/2025
+draft: true
+tags:
+    - eléctricidad
+---
+
